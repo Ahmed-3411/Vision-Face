@@ -38,3 +38,12 @@ It demonstrates the core concepts behind modern facial recognition — from imag
 
 ## Example Output
 - **Detected faces are displayed with rectangles around them for visualization.**
+
+- **face detection1**  
+  ![face detection](figures/face%20detection3.png)
+
+- **face detection2**  
+  ![face detection](figures/face%20deyection%202.png)
+
+- **face detection3**  
+  ![face detection](figures/face%20detection.jpeg)
