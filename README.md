@@ -26,6 +26,15 @@ It demonstrates the core concepts behind modern facial recognition — from imag
    ```bash
    git clone https://github.com/your-username/VisionFace.git
    cd VisionFace
-```
-```
+2. **Install the dependencies:**
+   ```bash
+   pip install -r requirements.txt
+3. **Run the script:**
+   ```bash
+   python visionface.py
+4. **The webcam (or selected image) will open and detected faces will be highlighted with bounding boxes.**
+
 ---
+
+## Example Output
+- **Detected faces are displayed with rectangles around them for visualization.**
