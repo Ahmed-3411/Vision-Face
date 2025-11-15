@@ -5,7 +5,7 @@ It demonstrates the core concepts behind modern facial recognition — from imag
 
 ---
 
-## Features  
+## Feature
 - Detects faces in static images or real-time video streams  
 - Uses **OpenCV Haar Cascades** for fast and accurate detection  
 - Lightweight, easy to run, and beginner-friendly  
